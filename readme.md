@@ -22,6 +22,9 @@ Each devkit is designed with a specific purpose in mind, but they are versatile 
 - **[P3T1755_DK](P3T1755_DK/)**  
   A devkit designed to explore and test the P3T1755 temperature sensor equipped with an I3C bus.
 
+- **[MCP2562FD](MCP2562FD/)**  
+  A FD CAN compatible bus driver.
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution (CC-BY)](https://creativecommons.org/licenses/by/4.0/) license.
